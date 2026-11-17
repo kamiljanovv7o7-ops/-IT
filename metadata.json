@@ -1,0 +1,6 @@
+{
+  "name": "Санарип IT — Бизнесиңиз үчүн IT чечимдер",
+  "description": "Меню, визитка, жарнамалык видео жана веб-сайттарды заманбап стандартта даярдоо кызматы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
